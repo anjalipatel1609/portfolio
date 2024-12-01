@@ -1,2 +1,2 @@
-# portfolio
+# Portfolio
 Anjali Patel | Portfolio Website
